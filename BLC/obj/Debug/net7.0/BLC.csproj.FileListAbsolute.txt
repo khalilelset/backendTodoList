@@ -1,0 +1,17 @@
+D:\My Project\todolist\BLC\bin\Debug\net7.0\BLC.deps.json
+D:\My Project\todolist\BLC\bin\Debug\net7.0\BLC.dll
+D:\My Project\todolist\BLC\bin\Debug\net7.0\BLC.pdb
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.csproj.AssemblyReference.cache
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.AssemblyInfoInputs.cache
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.AssemblyInfo.cs
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.csproj.CoreCompileInputs.cache
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.dll
+D:\My Project\todolist\BLC\obj\Debug\net7.0\refint\BLC.dll
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.pdb
+D:\My Project\todolist\BLC\obj\Debug\net7.0\ref\BLC.dll
+D:\My Project\todolist\BLC\bin\Debug\net7.0\DALC.dll
+D:\My Project\todolist\BLC\bin\Debug\net7.0\Entity.dll
+D:\My Project\todolist\BLC\bin\Debug\net7.0\DALC.pdb
+D:\My Project\todolist\BLC\bin\Debug\net7.0\Entity.pdb
+D:\My Project\todolist\BLC\obj\Debug\net7.0\BLC.csproj.CopyComplete

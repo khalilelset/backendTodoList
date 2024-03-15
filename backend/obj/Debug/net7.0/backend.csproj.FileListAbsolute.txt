@@ -1,0 +1,6 @@
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.csproj.AssemblyReference.cache
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+D:\My Project\todolist\backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cache
