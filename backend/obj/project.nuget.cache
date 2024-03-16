@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORDvW4PBwJWiru4usZRyO25agD4WeAoxEsGVu/Cfl2H3t/mgPoTBdJoojHR1gzuN8/fqOIkh/IAt0bI2Ss1a7g==",
+  "dgSpecHash": "y0Zyl1NXyGmc6ep3ZpqYV3B1iPZW+wHoJRTaknp3coLv+lKYmF+0UeO7lyuCVRKqqWTCVP5D2dfxRHZYBrJsBQ==",
   "success": true,
-  "projectFilePath": "D:\\My Project\\todolist\\backend\\ASP.csproj",
+  "projectFilePath": "D:\\My Project\\todolist\\ASP.NET\\backend\\ASP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

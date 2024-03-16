@@ -561,11 +561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Project\\todolist\\BLC\\BLC.csproj",
+      "projectUniqueName": "D:\\My Project\\todolist\\ASP.NET\\BLC\\BLC.csproj",
       "projectName": "BLC",
-      "projectPath": "D:\\My Project\\todolist\\BLC\\BLC.csproj",
+      "projectPath": "D:\\My Project\\todolist\\ASP.NET\\BLC\\BLC.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\My Project\\todolist\\BLC\\obj\\",
+      "outputPath": "D:\\My Project\\todolist\\ASP.NET\\BLC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -586,11 +586,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\My Project\\todolist\\DALC\\DALC.csproj": {
-              "projectPath": "D:\\My Project\\todolist\\DALC\\DALC.csproj"
+            "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj": {
+              "projectPath": "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj"
             },
-            "D:\\My Project\\todolist\\Entity\\Entity.csproj": {
-              "projectPath": "D:\\My Project\\todolist\\Entity\\Entity.csproj"
+            "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj"
             }
           }
         }

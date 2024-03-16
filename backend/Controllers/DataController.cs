@@ -44,5 +44,14 @@ namespace backend.Controllers
 
             _blc.Add_Task(t);
         }
+
+        [Route("Change_Status")]
+        [HttpPut]
+        public void Change_Status(statustodo st)
+        {
+
+
+            _blc.Change_Status(st);
+        }
     }
 }

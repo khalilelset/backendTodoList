@@ -28,5 +28,11 @@ namespace BLC
 
             _dalc.Add_Task(t.prefix, t.title, t.duedate, t.category, t.estimate, t.EstimateUnit, t.importance,  t.user_id);
         }
+        public void Change_Status(statustodo st)
+        {
+
+
+            _dalc.Change_Status(st.todo_id, st.prefix);
+        }
     }
 }

@@ -35,4 +35,11 @@
         
     }
 
+    public class statustodo
+    {
+        public int todo_id { get; set; }
+        public string prefix { get; set; }
+       
+
+    }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Project\\todolist\\DALC\\DALC.csproj": {}
+    "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj": {}
   },
   "projects": {
-    "D:\\My Project\\todolist\\DALC\\DALC.csproj": {
+    "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Project\\todolist\\DALC\\DALC.csproj",
+        "projectUniqueName": "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj",
         "projectName": "DALC",
-        "projectPath": "D:\\My Project\\todolist\\DALC\\DALC.csproj",
+        "projectPath": "D:\\My Project\\todolist\\ASP.NET\\DALC\\DALC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\My Project\\todolist\\DALC\\obj\\",
+        "outputPath": "D:\\My Project\\todolist\\ASP.NET\\DALC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\My Project\\todolist\\Entity\\Entity.csproj": {
-                "projectPath": "D:\\My Project\\todolist\\Entity\\Entity.csproj"
+              "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj": {
+                "projectPath": "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\My Project\\todolist\\Entity\\Entity.csproj": {
+    "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Project\\todolist\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "D:\\My Project\\todolist\\Entity\\Entity.csproj",
+        "projectPath": "D:\\My Project\\todolist\\ASP.NET\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\My Project\\todolist\\Entity\\obj\\",
+        "outputPath": "D:\\My Project\\todolist\\ASP.NET\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

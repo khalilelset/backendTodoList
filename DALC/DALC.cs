@@ -156,6 +156,28 @@ namespace DALC
             }
         }
 
+       
+
+        public void Change_Status(int todo_id, string prefix)
+        {
+
+            using (SqlConnection _cn = new SqlConnection(connectionString))
+            {
+                _cn.Open();
+
+
+                using (SqlCommand cmd = new SqlCommand("CHANGE_STATUS", _cn))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@PID", todo_id);
+                    cmd.Parameters.AddWithValue("@PPREFIX", prefix);
+                   
+                    cmd.ExecuteNonQuery();
+                }
+
+            }
+
+        }
 
 
     }
